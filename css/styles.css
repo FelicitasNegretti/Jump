@@ -1,0 +1,33 @@
+/* Estilos para el header  */
+header{
+    background-color: darkmagenta;
+}
+
+#Logo{
+    border-radius: 50%;
+}
+nav > ul > li > a {
+    color: white;
+}
+
+/* Estilos para el body  */
+#Inicio{
+    width: 100%;
+}
+
+.Tarjeta{
+    border: 1px solid black;
+}
+
+.TarjetaImagen{
+    width: 300px;
+    height: 300px;
+}
+
+/* Estilos para el footer */
+footer{
+    background-color: darkmagenta;
+}
+div > p{
+    color: white;
+}
